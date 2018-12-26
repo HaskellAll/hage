@@ -1,5 +1,5 @@
 # 
-
+https://www.johndcook.com/blog/category_theory/
 https://hackage.haskell.org/package/hedgehog
 https://hackage.haskell.org/package/tasty
 http://hackage.haskell.org/package/tomland
