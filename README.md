@@ -1,4 +1,7 @@
 # 
+https://stackoverflow.com/questions/1012573/getting-started-with-haskell?rq=1
+
+
 https://www.johndcook.com/blog/category_theory/
 https://hackage.haskell.org/package/hedgehog
 https://hackage.haskell.org/package/tasty
